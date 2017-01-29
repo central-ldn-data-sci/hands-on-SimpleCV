@@ -1,17 +1,7 @@
 # Hands on SimpleCV
 
-## Install VirtualBox
-https://www.virtualbox.org/wiki/Downloads
+1. Clone the repo and unzip the SimpleCV file.
 
-## Download the virtual machine image 
+2. In the unzipped folder navigate to SimpleCV\scripts\install and follow the installation instructions for your given OS. 
 
-
-## Run test script on desktop
-
-Double lcick on the script called 'facetrack.py' to open it in sublime.
-
-press 'ctrl' + 'b' to run teh script.
-
-you should see a a feed form your web cam and hopfully your face will be automatically pixilated.
-
-if your get a message like "SimpleCV can't seem to find a camera on your system, or the drivers do not work with SimpleCV." you may just need to attach your web cam to the virtual machine by selecting it from the 'Devices' toolbar.
+3. Navigate to and run SimpleCV/SimpleCV/examples/detection/facetrack.py to test out the installation, it should show a window with your webcam feed and also be pixiating out your face. 
