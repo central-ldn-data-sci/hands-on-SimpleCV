@@ -1,6 +1,6 @@
 # Hands on SimpleCV
 
-1. Clone the repo and unzip the SimpleCV file.
+1. Download the SimpleCV.zip file from https://drive.google.com/open?id=0B2x3yHhrCKNvd1R4azh6eWlmVlk.
 
 2. In the unzipped folder navigate to `SimpleCV\scripts\install` and follow the installation instructions for your given OS. 
 
